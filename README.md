@@ -1,5 +1,5 @@
 # odin-part2
-odin project practice and tasks from second part of the course
+## Practice and tasks from second part of the course Odin project 
 
 ## Notes
 1. Intermediate HTML and CSS Course
