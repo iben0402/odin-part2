@@ -12,3 +12,5 @@ odin project practice and tasks from second part of the course
 * [CSS - custom properties](int-html-css/css-custom-properties.md)
 * [CSS - browser compatibility](int-html-css/css-compatibility.md)
 * [CSS - frameworks and preprocessors](int-html-css/css-frameworks.md)
+* Forms notes:
+    * [Elements](int-html-css/Forms/forms.md)
