@@ -110,8 +110,20 @@ input {
     font-size: 24px;
     margin-left: calc((10% - 20px)/2);
     background-color:#c0d3e1 ;
+
 }
 
 .link {
     margin-left: calc((10% - 20px)/2);
 }
+
+input:focus {
+    -webkit-box-shadow: -1px 12px 23px -16px rgba(66, 68, 90, 1);
+    -moz-box-shadow: -1px 12px 23px -16px rgba(66, 68, 90, 1);
+    box-shadow: -1px 12px 23px -16px rgba(66, 68, 90, 1);
+    outline-color: #5d96be;
+}
+
+input:invalid {
+    border-color: rgb(199, 80, 80);
+  }
