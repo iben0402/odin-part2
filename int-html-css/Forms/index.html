@@ -26,7 +26,33 @@
                 <br>
                 <h3 class="start">Start now</h3>
             </div>
-            <div class="form-container"></div>
+            <div class="form-container">
+                <h2>Let's do this</h2>
+                <form action="index.html" method="get" class="registration-form">
+                    
+                    <div class="wrapper">
+                        <fieldset class="left">
+                            <label for="name">Name</label>
+                            <input type="text" name="name" id="name" placeholder="Your name" required>
+                            <label for="email">Email</label>
+                            <input type="email" name="email" id="email" placeholder="Your email" required>
+                            <label for="password">Password</label>
+                            <input type="password" name="password" id="password" placeholder="Your password" required>
+                        </fieldset>
+                        <fieldset class="right">
+                            <label for="last_name">Last name</label>
+                            <input type="text" name="last_name" id="last_name" placeholder="Your last name" required>
+                            <label for="phone">Phone</label>
+                            <input type="tel" name="phone" id="phone" placeholder="Your phone" required>
+                            <label for="confirm_password">Confirm password</label>
+                            <input type="password" name="confirm_password" id="confirm_password" placeholder="Confirm password" required>
+                        </fieldset>
+                    </div>
+                    
+                    <input type="submit" value="Sign up" class="submit">
+                </form>
+                <p class="link">Already have an account? <a href="login.html">Log in</a></p>
+            </div>
         </div>
     </div>
 </body>
