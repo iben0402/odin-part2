@@ -14,3 +14,9 @@ import { functionOne } from './functionOne';
 
 functionOne(); // this should work as expected!
 ```
+
+## links
+* [webpack](https://webpack.js.org/guides/getting-started/)
+* [asset management](https://webpack.js.org/guides/asset-management/)
+* [output management](https://webpack.js.org/guides/output-management/)
+* [development](https://webpack.js.org/guides/development/)
