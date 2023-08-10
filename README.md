@@ -19,3 +19,7 @@
 * Grid notes:
     * [Introduction](int-html-css/Grid/introduction.md)
 
+2. JavaScript
+* Organizing JavaScript code
+    * [Objects and Object Constructors](javascript/organizing/object-and-constructors.md)
+    * [Factory Functions and the Module Pattern](javascript/organizing/factory-functions-and-module-pattern.md)
