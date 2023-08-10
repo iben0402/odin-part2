@@ -1,0 +1,26 @@
+# Logs
+logs
+*.log
+
+# Compiled binary addons (like Node.js addons)
+build/Release
+
+# Dependency directories
+node_modules/
+
+# dotenv environment variables file
+.env
+
+# Output of 'npm build' or 'npm run build'
+dist/
+
+# macOS related files
+.DS_Store
+
+# Editor-specific files
+.idea/
+.vscode/
+
+# Compiled output
+dist/
+out/
