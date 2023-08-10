@@ -25,4 +25,5 @@
     * [Factory Functions and the Module Pattern](javascript/organizing/factory-functions-and-module-pattern.md)
     * [Classes](javascript/organizing/classes.md)
     * [ES6 Modules](javascript/organizing/modules.md)
+    * [OOP Principles](javascript/organizing/oop-principles.md)
     
