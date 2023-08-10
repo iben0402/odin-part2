@@ -23,3 +23,4 @@
 * Organizing JavaScript code
     * [Objects and Object Constructors](javascript/organizing/object-and-constructors.md)
     * [Factory Functions and the Module Pattern](javascript/organizing/factory-functions-and-module-pattern.md)
+    * [Classes](javascript/organizing/classes.md)
