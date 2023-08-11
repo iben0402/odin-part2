@@ -43,3 +43,11 @@
 * [Using Git in real life](https://www.theodinproject.com/lessons/javascript-using-git-in-the-real-world)
 * Testing JavaScript
     * [Testing notes](javascript/testing/testing.md)
+
+3. Advannced HTML and CSS Course
+* Animation
+    * Transforms
+    * Transitions
+    * Keyframes
+* Accessibility
+* Responsive Design
