@@ -39,6 +39,7 @@
     * [Data structures and algorithms](https://www.theodinproject.com/lessons/javascript-common-data-structures-and-algorithms)
     * [Linked list](https://www.theodinproject.com/lessons/javascript-linked-lists)
     * [Binary search tree](https://www.theodinproject.com/lessons/javascript-binary-search-trees)
-    
-
+* [Git Advanced](https://www.theodinproject.com/lessons/javascript-a-deeper-look-at-git)
+* [Using Git in real life](https://www.theodinproject.com/lessons/javascript-using-git-in-the-real-world)
 * Testing JavaScript
+    * [Testing notes](javascript/testing/testing.md)
