@@ -60,3 +60,15 @@ That is a really cool repo for many of my small projects and notes on web develo
 
 4. React
 * [Introduction](react/introduction.md)
+* Getting started
+    * [Components](react/getting-started/components.md)
+    * [JSX](react/getting-started/jsx.md)
+    * [Rendering Techniques](react/getting-started/rendering-techniques.md)
+    * [Keys](react/getting-started/keys.md)
+    * [Passing data](react/getting-started/passing-data.md)
+* States and effects
+* Class Components
+* Testing
+* React Ecosystem
+* More concepts
+* React and Backend
