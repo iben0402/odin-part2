@@ -50,4 +50,5 @@
     * [Transitions](adv-html-css/animation/transitions.md)
     * [Keyframes](adv-html-css/animation/keyframes.md)
 * Accessibility
+    * [WCAG](adv-html-css/accessibility/wcag.md)
 * Responsive Design
