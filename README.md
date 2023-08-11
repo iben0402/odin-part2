@@ -46,8 +46,8 @@
 
 3. Advannced HTML and CSS Course
 * Animation
-    * Transforms
-    * Transitions
-    * Keyframes
+    * [Transforms](adv-html-css/animation/transforms.md)
+    * [Transitions](adv-html-css/animation/transitions.md)
+    * [Keyframes](adv-html-css/animation/keyframes.md)
 * Accessibility
 * Responsive Design
