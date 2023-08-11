@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Favorite fruit start</title>
+    <link rel="stylesheet" href="index.css">
+  </head>
+
+<body>
+    <form novalidate>
+        <p>
+            <label for="mail">
+            <span>Email address:</span>
+            <input type="email" id="mail" name="mail" required minlength="8" />
+            <span class="error" aria-live="polite"></span>
+            </label>
+
+            <label for="country">
+            <span>Country</span>
+            <input type="text" id="country" name="country" required/>
+            <span class="error" aria-live="polite"></span>
+            </label>
+
+            <label for="zipcode">
+            <span>Zip code</span>
+            <input type="text" id="zipcode" name="zipcode" required/>
+            <span class="error" aria-live="polite"></span>
+            </label>
+
+            <label for="password">
+                <span>Password</span>
+                <input type="password" id="password" name="password" required/>
+                <span class="error" aria-live="polite"></span>
+            </label>
+
+            <label for="password-confirm">
+                <span>Confirm Password</span>
+                <input type="password" id="password-confirm" name="password-confirm" required/>
+                <span class="error" aria-live="polite"></span>
+            </label>
+        </p>
+        <button>Submit</button>
+    </form>
+      
+    <script src="index.js"></script>
+</body>
+
+</html>
