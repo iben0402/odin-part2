@@ -34,4 +34,11 @@
     * In this folder there is nice app (weather app folder) that uses weather api to show weather in you city. If you need help running it, just ask me or read [THIS](https://www.theodinproject.com/lessons/node-path-javascript-working-with-apis). To generate your own API key and paste this key in your index.js file. This should work fine :).
 * A bit of computer science
     * Fibbonacci sequence using loops and recursion very simple project
+    * [Notes on Time complexity](https://www.theodinproject.com/lessons/javascript-time-complexity)
+    * [Notes on Space complexity](https://www.theodinproject.com/lessons/javascript-space-complexity)
+    * [Data structures and algorithms](https://www.theodinproject.com/lessons/javascript-common-data-structures-and-algorithms)
+    * [Linked list](https://www.theodinproject.com/lessons/javascript-linked-lists)
+    * [Binary search tree](https://www.theodinproject.com/lessons/javascript-binary-search-trees)
+    
+
 * Testing JavaScript
