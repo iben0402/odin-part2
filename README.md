@@ -26,4 +26,8 @@
     * [Classes](javascript/organizing/classes.md)
     * [ES6 Modules](javascript/organizing/modules.md)
     * [OOP Principles](javascript/organizing/oop-principles.md)
-    
+* Asynchronous JavaScript and APIs
+    * [JSON](javascript/async-js-and-apis/json.md)
+    * [Asynchronous Code](javascript/async-js-and-apis/asynchronous-code.md)
+    * [Working with APIs](javascript/async-js-and-apis/working-with-apis.md)
+    * [Async and Await](javascript/async-js-and-apis/async-await.md)
