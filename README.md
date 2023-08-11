@@ -1,5 +1,6 @@
 # odin-part2
-## Practice and tasks from second part of the course Odin project 
+## Practice and tasks from second part of the course Odin project
+That is a really cool repo for many of my small projects and notes on web development. Feel free to use them, although I recommend doing Odin project course yourself, it is really good. This is only second part of the course (Full Stack JavaScript). It contains more advanced concepts on html, css and javascript (obviously).
 
 ## Notes
 1. Intermediate HTML and CSS 
@@ -51,4 +52,5 @@
     * [Keyframes](adv-html-css/animation/keyframes.md)
 * Accessibility
     * [WCAG](adv-html-css/accessibility/wcag.md)
+    * [Sematic HTML](adv-html-css/accessibility/sematic-html.md)
 * Responsive Design
