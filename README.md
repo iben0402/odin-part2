@@ -56,3 +56,4 @@ That is a really cool repo for many of my small projects and notes on web develo
     * [Accessible colors](adv-html-css/accessibility/accessible-colors.md)
     * [WAI-ARIA](adv-html-css/accessibility/wai-aria.md)
 * Responsive Design
+    * [Introduction](adv-html-css/responsive-design/introduction.md)
