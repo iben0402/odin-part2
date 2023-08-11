@@ -31,3 +31,7 @@
     * [Asynchronous Code](javascript/async-js-and-apis/asynchronous-code.md)
     * [Working with APIs](javascript/async-js-and-apis/working-with-apis.md)
     * [Async and Await](javascript/async-js-and-apis/async-await.md)
+    * In this folder there is nice app (weather app folder) that uses weather api to show weather in you city. If you need help running it, just ask me or read [THIS](https://www.theodinproject.com/lessons/node-path-javascript-working-with-apis). To generate your own API key and paste this key in your index.js file. This should work fine :).
+* A bit of computer science
+    * Fibbonacci sequence using loops and recursion very simple project
+* Testing JavaScript
