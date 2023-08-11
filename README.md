@@ -54,4 +54,5 @@ That is a really cool repo for many of my small projects and notes on web develo
     * [WCAG](adv-html-css/accessibility/wcag.md)
     * [Sematic HTML](adv-html-css/accessibility/sematic-html.md)
     * [Accessible colors](adv-html-css/accessibility/accessible-colors.md)
+    * [WAI-ARIA](adv-html-css/accessibility/wai-aria.md)
 * Responsive Design
