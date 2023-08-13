@@ -70,7 +70,7 @@ That is a really cool repo for many of my small projects and notes on web develo
     * [State](react/states-and-effects/state.md)
     * [Side effects](react/states-and-effects/side-effects.md)
 * [Class Components](react/class-components.md)
-* Testing
+* [Testing](react/testing.md)
 * React Ecosystem
 * More concepts
 * React and Backend
