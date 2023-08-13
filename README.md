@@ -68,6 +68,7 @@ That is a really cool repo for many of my small projects and notes on web develo
     * [Passing data](react/getting-started/passing-data.md)
 * States and effects
     * [State](react/states-and-effects/state.md)
+    * [Side effects](react/states-and-effects/side-effects.md)
 * Class Components
 * Testing
 * React Ecosystem
