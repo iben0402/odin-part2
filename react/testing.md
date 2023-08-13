@@ -91,3 +91,47 @@ exports[`App component > renders magnificent monkeys 1`] = `
 </div>
 `;
 ```
+
+## What is Mocking?
+Mocking is a way to simulate the behavior of a function or module. For example, if we have a function that makes an API call, we can mock that function to return a fake response. This is useful because we don’t want to make an actual API call in our tests. Mocking is also useful when we want to test a function that calls another function. We can mock the second function to return a fake value so that we can test the first function in isolation.
+
+## Testing callback handlers
+```jsx
+// Example test file with callback mocks:
+
+import { vi } from 'vitest'
+import { render, screen } from "@testing-library/react";
+import { describe, it, expect } from "vitest";
+import userEvent from "@testing-library/user-event";
+import CustomButton from "../src/CustomButton";
+
+describe("CustomButton", () => {
+    it("should render a button with the text 'Click me'", () => {
+        render(<CustomButton onClick={() => {}} />);
+
+        const button = screen.getByRole("button", { name: "Click me" });
+
+        expect(button).toBeInTheDocument();
+    });
+  
+    it("should call the onClick function when clicked", async () => {
+        const onClick = vi.fn();
+        const user = userEvent.setup()
+        render(<CustomButton onClick={onClick} />);
+
+        const button = screen.getByRole("button", { name: "Click me" });
+
+        await user.click(button);
+
+        expect(onClick).toHaveBeenCalled();
+    });
+
+    it("should not call the onClick function when it isn't clicked", async () => {
+        const onClick = vi.fn();
+        render(<CustomButton onClick={onClick} />);
+
+        expect(onClick).not.toHaveBeenCalled();
+    });
+});
+```
+
