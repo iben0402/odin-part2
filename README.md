@@ -75,6 +75,6 @@ That is a really cool repo for many of my small projects and notes on web develo
     * [Prop types](react/ecosystem/prop-types.md)
     * [React Router](react/ecosystem/react-router.md)
     * [Fetching Data](react/ecosystem/fetching-data.md)
-    * [Styling](react/ecosystem/styling.md)
 * More concepts
+    * [Context API](react/more-concepts/context-api.md)
 * React and Backend
