@@ -77,4 +77,5 @@ That is a really cool repo for many of my small projects and notes on web develo
     * [Fetching Data](react/ecosystem/fetching-data.md)
 * More concepts
     * [Context API](react/more-concepts/context-api.md)
+    * [Reducing state](react/more-concepts/reducing-state.md)
 * React and Backend
