@@ -78,4 +78,5 @@ That is a really cool repo for many of my small projects and notes on web develo
 * More concepts
     * [Context API](react/more-concepts/context-api.md)
     * [Reducing state](react/more-concepts/reducing-state.md)
+    * [Refs and Memoization](react/more-concepts/refs-and-memoization.md)
 * React and Backend
