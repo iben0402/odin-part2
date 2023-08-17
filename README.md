@@ -79,4 +79,10 @@ That is a really cool repo for many of my small projects and notes on web develo
     * [Context API](react/more-concepts/context-api.md)
     * [Reducing state](react/more-concepts/reducing-state.md)
     * [Refs and Memoization](react/more-concepts/refs-and-memoization.md)
-* React and Backend
+
+5. NodeJS
+* Introduction
+    * [HTTP requests](https://github.com/nodejs/nodejs.dev/blob/aa4239e87a5adc992fdb709c20aebb5f6da77f86/content/learn/node-js-web-server/node-make-http-requests.en.md)
+    * [File system](nodeJS/introduction/file-system.md)
+    * [URL Class](nodeJS/introduction/URL-class.md)
+
