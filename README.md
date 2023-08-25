@@ -79,6 +79,7 @@ That is a really cool repo for many of my small projects and notes on web develo
     * [Context API](react/more-concepts/context-api.md)
     * [Reducing state](react/more-concepts/reducing-state.md)
     * [Refs and Memoization](react/more-concepts/refs-and-memoization.md)
+<<<<<<< HEAD
 
 5. NodeJS
 * Introduction
@@ -86,3 +87,12 @@ That is a really cool repo for many of my small projects and notes on web develo
     * [File system](nodeJS/introduction/file-system.md)
     * [URL Class](nodeJS/introduction/URL-class.md)
 
+=======
+* React and Backend
+
+5. NodeJS
+* [Basic NodeJS app](https://firstnodewebsite.iben0402.repl.co)
+* [MongoDB](https://learn.mongodb.com/learning-paths/introduction-to-mongodb)
+* **Express & Mongoose**
+   *  [Introduction to Express](node/express/introduction-to-express.md)
+>>>>>>> 14b963682ab91412886a7036e2216c2979960e2c
